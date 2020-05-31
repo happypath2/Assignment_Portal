@@ -1,0 +1,29 @@
+[
+    {
+        "username": "bhuvi",
+        "password": "test",
+        "email": "1@gmail.com",
+        "firstname": "bhuvi",
+        "lastname": "hema",
+        "gender": "f",
+        "country": "india"
+    },
+    {
+        "username": "raj",
+        "password": "test",
+        "email": "2@gmail.com",
+        "firstname": "raj",
+        "lastname": "r",
+        "gender": "m",
+        "country": "india"
+    },
+    {
+        "username": "test",
+        "password": "test",
+        "email": "test@gmail.com",
+        "firstname": "testq",
+        "lastname": "r",
+        "gender": "m",
+        "country": "india"
+    }
+]
